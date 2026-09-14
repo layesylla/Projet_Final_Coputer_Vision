@@ -27,11 +27,8 @@ The project uses convolutional neural network techniques and explores the use of
 
 - Python
 - TensorFlow
-- PyTorch
 - NumPy
 - Matplotlib
-- Deep Learning
-- Computer Vision
 - Convolutional Neural Networks
 - Transfer Learning
 - MobileNetV2
